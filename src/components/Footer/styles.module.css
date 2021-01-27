@@ -1,0 +1,41 @@
+.footer{
+    width: 100%;
+    height: auto;
+    display: block;
+    padding: 3rem 10rem;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 11% 71% 11%;
+    grid-gap: 20px;
+}
+.cards{
+    width: 100%;
+    height: 15rem;
+}
+ul{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    width: 50%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    float: left;
+    line-height: 2rem;
+}
+.center{
+    text-align: center;
+}
+.cards img{
+    display: block;
+    margin-bottom: 1rem;
+    margin: 0 auto;
+}
+.rights{
+    width: 100%;
+    height: 3rem;
+    text-align: center;
+}
